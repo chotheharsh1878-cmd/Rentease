@@ -1,0 +1,14 @@
+{
+  "geocode:lot 5 lambeau court": {
+    "savedAt": 1793097225141,
+    "data": {
+      "city": "Rapid City",
+      "country": "United States",
+      "countryCode": "US",
+      "state": "South Dakota",
+      "displayName": "Lambeau Court, Rapid City, Pennington County, South Dakota, 57701, United States",
+      "latitude": 44.1265157,
+      "longitude": -103.2152804
+    }
+  }
+}
